@@ -1,0 +1,3 @@
+ip = representa o endereço do qual partiu ou para o qual irá determinado pacote de dados, ou seja, o endereçamento lógico.
+tcp = protocolo de transporte que possui maior confiabilidade na entrega dos pacotes, devido ao processo de handshake, que ele utiliza
+udp = protocolo de transporte que possui maior velocidade, porém menor confiabilidade de entrega
